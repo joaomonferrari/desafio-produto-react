@@ -1,3 +1,4 @@
+@"
 # .NET
 bin/
 obj/
@@ -9,3 +10,4 @@ obj/
 node_modules/
 dist/
 .vite/
+"@ | Set-Content .gitignore

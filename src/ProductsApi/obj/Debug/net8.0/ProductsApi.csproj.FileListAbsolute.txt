@@ -64,3 +64,4 @@ C:\Users\joaom\OneDrive\Área de Trabalho\desafio-produto-react\src\ProductsApi\
 C:\Users\joaom\OneDrive\Área de Trabalho\desafio-produto-react\src\ProductsApi\obj\Debug\net8.0\ProductsApi.pdb
 C:\Users\joaom\OneDrive\Área de Trabalho\desafio-produto-react\src\ProductsApi\obj\Debug\net8.0\ProductsApi.genruntimeconfig.cache
 C:\Users\joaom\OneDrive\Área de Trabalho\desafio-produto-react\src\ProductsApi\obj\Debug\net8.0\ref\ProductsApi.dll
+C:\Users\joaom\OneDrive\Área de Trabalho\desafio-produto-react\src\ProductsApi\obj\Debug\net8.0\ProductsApi.sourcelink.json
