@@ -68,7 +68,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowVite", p => p
         .WithOrigins(
             "http://localhost:5173",
-            "https://joaomonferrari.github.io" // seu domínio do GitHub Pages
+            "https://joaomonferrari.github.io" // domínio do GitHub Pages
         )
         .AllowAnyHeader()
         .AllowAnyMethod()
