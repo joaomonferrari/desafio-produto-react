@@ -61,16 +61,3 @@ app.MapControllers();
 
 //Starta o servidor (fica escutando):
 app.Run();
-
-
-builder.Services.AddCors(options =>
-{
-    options.AddPolicy("AllowVite", p => p
-        .WithOrigins(
-            "http://localhost:5173",
-            "https://joaomonferrari.github.io" // domínio do GitHub Pages
-        )
-        .AllowAnyHeader()
-        .AllowAnyMethod()
-    );
-});

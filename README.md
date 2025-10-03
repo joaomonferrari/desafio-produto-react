@@ -72,10 +72,7 @@ dotnet watch --project src\ProductsApi.Tests test
 - **Swagger**: [http://localhost:5000/swagger](http://localhost:5000/swagger)  
 - **Listar produtos (JSON)**: [http://localhost:5000/api/products](http://localhost:5000/api/products)
 
-## O trabalho está rodando no link abaixo
 
-
-
-## 🔧 Feito por:
+## Feito por:
 
 [João Monferrari](https://www.linkedin.com/in/jo%C3%A3o-monferrari-b278b2223/)
